@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/Msc_Geomatics/Courses/3rd_semester/GEO1004/hw03/wetransfer-51df86/cmake-build-debug/CMakeFiles/wetransfer_51df86.dir
+C:/Users/User/Desktop/Msc_Geomatics/Courses/3rd_semester/GEO1004/hw03/wetransfer-51df86/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Msc_Geomatics/Courses/3rd_semester/GEO1004/hw03/wetransfer-51df86/cmake-build-debug/CMakeFiles/rebuild_cache.dir
